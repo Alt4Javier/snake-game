@@ -1,0 +1,40 @@
+body{
+    background: black;
+    text-align: center;
+    margin: 64px 0 0 0;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+canvas{
+    border: solid 5px white;
+    background: linear-gradient(
+        0deg,
+        rgba(45, 90, 156) 0%,
+        rgb(0, 27, 68) 100%
+    );
+}
+
+.button span {
+	margin-right:10px;
+}
+
+.contenedor-footer{
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content-foo {
+    text-align: center;
+}
+
+.titulo-final {
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 0px;
+    color: rgb(24, 24, 24);
+    font-size: 30px;
+}
+
